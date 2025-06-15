@@ -2,7 +2,7 @@
   "expo": {
     "name": "CodePushExpoDemoApp",
     "slug": "CodePushExpoDemoApp",
-    "version": "1.0.0",
+    "version": "1.0.5",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -32,7 +32,7 @@
         "./codepush-plugin.js",
         {
           "ios": {
-            "CodePushDeploymentKey": "Tf2qo0NCNKloj8Ym2Z2Bk_VQ_zLDNzk2MGNjNDktNWFiZS00NTAwLWFlNDEtZjMzNzllNGU0MjE0",
+            "CodePushDeploymentKey": "dMLVbBVogm_ENt21TilrdgEQ6kx8Y2E0MGI3YTMtNzU2Yy00YWU2LWE0NjktNTBmNGYxNTUxY2E2",
             "CodePushServerURL": "https://codepush.bitrise.io"
           },
           "android": {
