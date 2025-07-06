@@ -29,7 +29,7 @@
     },
     "plugins": [
       [
-        "./codepush-plugin.js",
+        "./expo.js",
         {
           "ios": {
             "CodePushDeploymentKey": "dMLVbBVogm_ENt21TilrdgEQ6kx8Y2E0MGI3YTMtNzU2Yy00YWU2LWE0NjktNTBmNGYxNTUxY2E2",
